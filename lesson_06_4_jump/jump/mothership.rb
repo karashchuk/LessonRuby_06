@@ -12,5 +12,5 @@ class Mothership
   end
 
 end
-mm = Mothership.new
-p mm.compute
+# mm = Mothership.new
+# p mm.compute
